@@ -1,0 +1,6 @@
+C:\Users\Familia\Documents\SharpDevelop Projects\Triangles\Triangles\bin\Debug\Triangles.exe.config
+C:\Users\Familia\Documents\SharpDevelop Projects\Triangles\Triangles\bin\Debug\Triangles.exe
+C:\Users\Familia\Documents\SharpDevelop Projects\Triangles\Triangles\bin\Debug\Triangles.pdb
+C:\Users\Familia\Documents\SharpDevelop Projects\Triangles\Triangles\obj\Debug\Triangles.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\SharpDevelop Projects\Triangles\Triangles\obj\Debug\Triangles.exe
+C:\Users\Familia\Documents\SharpDevelop Projects\Triangles\Triangles\obj\Debug\Triangles.pdb
